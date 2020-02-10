@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+.Tabs-Info{
+    background:#fff;
+    padding:0;
+    margin: 20px 40px;
+  }
+  .ant-tabs-ink-bar{
+    background-color: #000;;
+  }
+  .ant-tabs-nav .ant-tabs-tab-active{
+    color:#000;
+  }
+  .ant-tabs-nav .ant-tabs-tab:hover {
+    color: #000;
+}

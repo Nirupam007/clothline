@@ -1,0 +1,35 @@
+@import '~antd/dist/antd.css';
+
+
+  .ant-layout-sider-trigger{
+    color: #000000;
+    background:#fff;
+    border: solid 1px #e5e5e5;
+ }
+ .ant-layout{
+   background-color: #fff;
+ }
+  .ant-layout-header {
+    padding: 0 15px;
+}
+  .ant-menu-vertical .ant-menu-item{
+      margin-top:0;
+  }
+  .ant-menu-inline .ant-menu-item{
+    margin-top:0;
+  }
+  .page-title{
+    width:100%;
+    text-align: center;
+  }
+  
+  .stats-container{
+    margin:20px 0 auto;
+    width:100%;
+    }
+  .alignCenter{
+    text-align: center;
+  }
+
+
+  
